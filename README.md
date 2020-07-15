@@ -41,15 +41,15 @@ Geschlecht der Person:
 2 = männlich  
 3 = divers  
 
-**age**     
-Geburtsjahr der Person:      
-1 = 1940 bis 1950 
-2 = 1951 bis 1960   
-3 = 1961 bis 1970 
-4 = 1971 bis 1980 
-5 = 1981 bis 1990  
-6 = 1991 bis 2000 
-8 = später als 2001   
+**age**         
+Geburtsjahr der Person:             
+1 = 1940 bis 1950     
+2 = 1951 bis 1960       
+3 = 1961 bis 1970     
+4 = 1971 bis 1980     
+5 = 1981 bis 1990      
+6 = 1991 bis 2000     
+8 = später als 2001       
 
 **party**    
 Persönlicher Mitgliedschaft in politischer Partei:    
