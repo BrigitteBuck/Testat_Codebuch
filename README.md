@@ -52,15 +52,15 @@ Geburtsjahr der Person:
 7 = 1991 bis 2000     
 8 = später als 2000     
 
-**party**    
-Persönlicher Mitgliedschaft in politischer Partei:    
-1 = CDU
-2 = SPD
-3 = AFD
-4 = FDP
-5 = DIE LINKE 
-6 = GRÜNE
-7 = CSU
+**party**       
+Persönlicher Mitgliedschaft in politischer Partei:       
+1 = CDU   
+2 = SPD   
+3 = AFD   
+4 = FDP   
+5 = DIE LINKE     
+6 = GRÜNE   
+7 = CSU   
 
 **representation**    
 Funktion der Person innerhalb der Kommission:   
