@@ -59,7 +59,7 @@ Persönlicher Mitgliedschaft in politischer Partei:
 4 = GRÜNE 
 5 = FDP 
 6 = DIE LINKE  
-7 = 
+7 = AFD
 
 representation
 Funktion der Person innerhalb der Kommission:
