@@ -90,10 +90,10 @@ Bundesland, dem die Person angehört:
 10 = Nordrhein-Westfalen  
 11 = Rheinland-Pfalz  
 12 = Saarland 
-13 = Sachsen  
-14 = Sachsen-Anhalt 
-15 = Schleswig-Holstein 
-16 = Thüringen  
+13 = Sachsen    
+14 = Sachsen-Anhalt  
+15 = Schleswig-Holstein   
+16 = Thüringen    
 
 **married**  
 1 = ja  
