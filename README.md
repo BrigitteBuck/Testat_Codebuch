@@ -6,42 +6,42 @@ Datensatz der Mitglieder der Kohlekommission
 Codebuch Stand 2020-07-15
 erstellt von Brigitte Buck (bb095@hdm-stuttgart.de)
 
-Inhalt
+## Inhalt
 
 Edges.csv (Edgelist)
 Nodes.csv (Nodelist)
 Codebuch.rm (Codierung der Datensätze)
-Ursprung und Datenerhebung
 
+## Ursprung und Datenerhebung
 Ich habe den Datensatz der Mitglieder der Kohlekommission aus dem Klimareporter Artikel, dem Munziger Archiv und der BMWI Pressemeldung. 
 
-Das Netzwerk ist ein gerichtetes two-mode Netzwerk (Akteur-Organisationen). 
+Das Netzwerk ist ein *gerichtetes two-mode Netzwerk (Akteur-Organisationen)*. 
 
-EDGE-Attribute
+# EDGE-Attribute
 
-from 
+**from** 
 (id Mitglied der Kommision)
 
-to
+**to**
 (alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)
 
-NODE-Attribute
+# NODE-Attribute
 
-id
+**id**
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
 
-type 
+**type** 
 Betrifft Person oder Organisation im Netzwerk:
 0 = person 
 1 = organization
 
-sex
+**sex**
 Geschlecht der Person:
 1 = weiblich
 2 = männlich
 3 = divers
 
-age
+**age**
 Alter der Person: 
 1 = bis 20 Jahre
 2 = 21 bis 30
@@ -51,7 +51,7 @@ Alter der Person:
 6 = 61 bis 70
 7 = 71 bis 80 
 
-party 
+**party** 
 Persönlicher Mitgliedschaft in politischer Partei: 
 1 = SDP
 2 = CSU 
@@ -61,7 +61,7 @@ Persönlicher Mitgliedschaft in politischer Partei:
 6 = DIE LINKE  
 7 = AFD
 
-representation
+**representation**
 Funktion der Person innerhalb der Kommission:
 1 = Politik
 2 = Wirtschaft
@@ -70,13 +70,13 @@ Funktion der Person innerhalb der Kommission:
 5 = Regionen
 6 = Wissenschaft
 
-position
+**position**
 Position der Person: 
 1 = Vorsitz
 2 = Mitglied
 3 = kein Stimmrecht
 
-state 
+**state**
 Bundesland, dem die Person angehört: 
 1 = Baden-Württemberg 
 2 = Bayern
@@ -95,6 +95,8 @@ Bundesland, dem die Person angehört:
 15 = Schleswig-Holstein
 16 = Thüringen
 
-married 
+**married**
 1 = ja 
 2 = nein 
+
+##
