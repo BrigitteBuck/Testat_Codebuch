@@ -53,7 +53,7 @@ Geburtsjahr der Person:
 
 **party**    
 Persönlicher Mitgliedschaft in politischer Partei:    
-1 = SDP   
+1 = SPD   
 2 = CSU    
 3 = CDU    
 4 = GRÜNE     
