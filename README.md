@@ -70,11 +70,11 @@ Funktion der Person innerhalb der Kommission:
 5 = Regionen  
 6 = Wissenschaft  
 
-**position**   
-Position der Person:  
-1 = Vorsitz 
-2 = Mitglied  
-3 = kein Stimmrecht 
+**position**     
+Position der Person:    
+1 = Vorsitz   
+2 = Mitglied   
+3 = kein Stimmrecht   
 
 **state**   
 Bundesland, dem die Person angehört:    
@@ -86,7 +86,7 @@ Bundesland, dem die Person angehört:
 6 = Hamburg   
 7 = Hessen  
 8 = Mecklenburg-Vorpommern  
-9 = Niedersachsen 
+9 = Niedersachsen  
 10 = Nordrhein-Westfalen  
 11 = Rheinland-Pfalz  
 12 = Saarland 
