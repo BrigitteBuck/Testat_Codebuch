@@ -62,7 +62,7 @@ Persönlicher Mitgliedschaft in politischer Partei:
 7 = AFD 
 
 **representation**    
-Funktion der Person innerhalb der Kommission: 
+Funktion der Person innerhalb der Kommission:   
 1 = Politik 
 2 = Wirtschaft  
 3 = Gewerkschaft  
@@ -76,13 +76,13 @@ Position der Person:
 2 = Mitglied  
 3 = kein Stimmrecht 
 
-**state** 
-Bundesland, dem die Person angehört:  
-1 = Baden-Württemberg   
-2 = Bayern  
-3 = Berlin  
-4 = Brandenburg   
-5 = Bremen  
+**state**   
+Bundesland, dem die Person angehört:    
+1 = Baden-Württemberg    
+2 = Bayern   
+3 = Berlin   
+4 = Brandenburg     
+5 = Bremen   
 6 = Hamburg   
 7 = Hessen  
 8 = Mecklenburg-Vorpommern  
