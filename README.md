@@ -47,10 +47,10 @@ Geburtsjahr der Person:
 2 = 1941 bis 1950       
 3 = 1951 bis 1960     
 4 = 1961 bis 1970     
-5 = 1971 bis 1980      
-6 = 1981 bis 1990    
-7 = 1991 bis 2000 
-8 = später als 2000
+5 = 1971 bis 1980         
+6 = 1981 bis 1990       
+7 = 1991 bis 2000     
+8 = später als 2000     
 
 **party**    
 Persönlicher Mitgliedschaft in politischer Partei:    
