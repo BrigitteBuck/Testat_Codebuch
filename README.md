@@ -35,14 +35,14 @@ Betrifft Person oder Organisation im Netzwerk:
 0 = person   
 1 = organization  
 
-**sex** 
-Geschlecht der Person:  
+**sex**   
+Geschlecht der Person:   
 1 = weiblich  
 2 = männlich  
 3 = divers  
 
-**age** 
-Alter der Person:   
+**age**  
+Alter der Person:    
 1 = bis 20 Jahre  
 2 = 21 bis 30 
 3 = 31 bis 40 
@@ -61,7 +61,7 @@ Persönlicher Mitgliedschaft in politischer Partei:
 6 = DIE LINKE   
 7 = AFD 
 
-**representation**  
+**representation**    
 Funktion der Person innerhalb der Kommission: 
 1 = Politik 
 2 = Wirtschaft  
@@ -70,7 +70,7 @@ Funktion der Person innerhalb der Kommission:
 5 = Regionen  
 6 = Wissenschaft  
 
-**position**  
+**position**   
 Position der Person:  
 1 = Vorsitz 
 2 = Mitglied  
@@ -95,7 +95,7 @@ Bundesland, dem die Person angehört:
 15 = Schleswig-Holstein 
 16 = Thüringen  
 
-**married** 
+**married**  
 1 = ja  
 2 = nein  
 
