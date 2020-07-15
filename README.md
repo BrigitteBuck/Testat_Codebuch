@@ -54,13 +54,13 @@ Geburtsjahr der Person:
 
 **party**    
 Persönlicher Mitgliedschaft in politischer Partei:    
-1 = SPD   
-2 = CSU    
-3 = CDU    
-4 = GRÜNE     
-5 = FDP     
-6 = DIE LINKE   
-7 = AFD 
+1 = CDU
+2 = SPD
+3 = AFD
+4 = FDP
+5 = DIE LINKE 
+6 = GRÜNE
+7 = CSU
 
 **representation**    
 Funktion der Person innerhalb der Kommission:   
