@@ -41,15 +41,15 @@ Geschlecht der Person:
 2 = männlich  
 3 = divers  
 
-**age**  
-Alter der Person:    
-1 = bis 20 Jahre  
-2 = 21 bis 30 
-3 = 31 bis 40 
-4 = 41 bis 50   
-5 = 51 bis 60   
-6 = 61 bis 70 
-7 = 71 bis 80   
+**age**   
+Alter der Person:     
+1 = bis 20 Jahre    
+2 = 21 bis 30   
+3 = 31 bis 40   
+4 = 41 bis 50    
+5 = 51 bis 60     
+6 = 61 bis 70   
+7 = 71 bis 80     
 
 **party**    
 Persönlicher Mitgliedschaft in politischer Partei:    
