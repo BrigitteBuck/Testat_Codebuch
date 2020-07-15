@@ -51,22 +51,22 @@ Alter der Person:
 6 = 61 bis 70 
 7 = 71 bis 80   
 
-**party**   
-Persönlicher Mitgliedschaft in politischer Partei:  
-1 = SDP 
-2 = CSU   
-3 = CDU   
-4 = GRÜNE   
-5 = FDP   
+**party**    
+Persönlicher Mitgliedschaft in politischer Partei:    
+1 = SDP   
+2 = CSU    
+3 = CDU    
+4 = GRÜNE     
+5 = FDP     
 6 = DIE LINKE   
 7 = AFD 
 
 **representation**    
 Funktion der Person innerhalb der Kommission:   
-1 = Politik 
-2 = Wirtschaft  
-3 = Gewerkschaft  
-4 = Umwelt  
+1 = Politik   
+2 = Wirtschaft    
+3 = Gewerkschaft   
+4 = Umwelt    
 5 = Regionen  
 6 = Wissenschaft  
 
