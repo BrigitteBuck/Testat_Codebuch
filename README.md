@@ -15,7 +15,7 @@ Codebuch.rm (Codierung der Datensätze)
 ## Ursprung und Datenerhebung 
 Ich habe den Datensatz der Mitglieder der Kohlekommission aus dem Klimareporter Artikel, dem Munziger Archiv und der BMWI Pressemeldung.   
 
-Das Netzwerk ist ein *gerichtetes two-mode Netzwerk (Akteur-Organisationen)*.   
+Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk (Akteur-Organisationen)*.   
 
 # EDGE-Attribute  
 
