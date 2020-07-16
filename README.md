@@ -96,7 +96,7 @@ Bundesland, dem die Person angehört:
 15 = Schleswig-Holstein   
 16 = Thüringen    
 
-**married**  
+**children**  
 1 = ja  
 2 = nein  
 
