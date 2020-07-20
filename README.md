@@ -78,7 +78,7 @@ Position der Person:
 3 = kein Stimmrecht   
 
 **state**   
-Bundesland, in welchen die Person wohnt:    
+Bundesland des Geburtsortes:    
 1 = Baden-Württemberg    
 2 = Bayern   
 3 = Berlin   
