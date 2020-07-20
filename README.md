@@ -94,7 +94,8 @@ Bundesland des Geburtsortes:
 13 = Sachsen    
 14 = Sachsen-Anhalt  
 15 = Schleswig-Holstein   
-16 = Thüringen    
+16 = Thüringen   
+17 = anderes Land
 
 **children**  
 1 = ja  
