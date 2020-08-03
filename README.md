@@ -13,7 +13,11 @@ Nodes.csv (Nodelist)
 Codebuch.rm (Codierung der Datensätze)  
 
 ## Ursprung und Datenerhebung 
-Ich habe den Datensatz der Mitglieder der Kohlekommission aus dem Klimareporter Artikel, dem Munziger Archiv und der BMWI Pressemeldung.   
+Ich habe den Datensatz der Mitglieder der Kohlekommission aus folgenden Artikeln zusammegestellt: 
+
+- Mitlgieder der Kohlekomission: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission
+- Ergänzung der personenbezogenen Daten durch das Munzinger Archiv: https://www.munzinger.de/search/start.jsp
+- Faktencheck durch die Pressemeldung des BMWI: https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html
 
 Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk (Akteur-Organisationen)*.   
 
