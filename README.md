@@ -31,7 +31,7 @@ Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk (Akteur-Organisationen)*.
 Identische ID wie aus der edgelist zur Identifikation der Knoten.   
 
 **type**  
-Betrifft Person oder Organisation im Netzwerk:  
+Identifizierung Person oder Organisation: 
 0 = person   
 1 = organization  
 
@@ -97,7 +97,8 @@ Bundesland des Geburtsortes:
 16 = Thüringen   
 17 = anderes Land
 
-**children**  
+**children**
+Hat die Person Kinder?
 1 = ja  
 2 = nein  
 
