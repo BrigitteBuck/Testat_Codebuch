@@ -97,9 +97,9 @@ Bundesland des Geburtsortes:
 16 = Thüringen   
 17 = anderes Land
 
-**children**
-Hat die Person Kinder?
-1 = ja  
-2 = nein  
+**children**    
+Hat die Person Kinder?    
+1 = ja    
+2 = nein    
 
 ##  
