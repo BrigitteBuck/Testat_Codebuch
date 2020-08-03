@@ -1,10 +1,8 @@
 # Testat_Codebuch 
 Kohlekommission Netzwerk    
-
 Datensatz der Mitglieder der Kohlekommission   
 
-Codebuch Stand 2020-07-15 
-erstellt von Brigitte Buck (bb095@hdm-stuttgart.de) 
+Codebuch Stand 2020-07-15 erstellt von Brigitte Buck (bb095@hdm-stuttgart.de) 
 
 ## Inhalt 
 
