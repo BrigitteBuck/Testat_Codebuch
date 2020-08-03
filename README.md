@@ -21,11 +21,9 @@ Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk (Akteur-Organisationen)*.
 
 # EDGE-Attribute  
 
-**from**   
-(id Mitglied der Kommision) 
+**from** (id Mitglied der Kommision) 
 
-**to**  
-(alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)  
+**to** (alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)  
 
 # NODE-Attribute  
 
